@@ -4,6 +4,6 @@ Hey! Welcome to siege's 2021 vehicle pack. I compiled [#] 2020 and 2021 model ye
 
 I claim **NO** CREDIT for any of these vehicles. I did not make them.
 
-Check [CREDITS](https://github.com/n0tsiege/SIEGE-2021-PACK/CREDITS.md) for all original links and credits to the original creators.
+Check [CREDITS](https://github.com/n0tsiege/SIEGE-2021-PACK/blob/main/CREDITS.md) for all original links and credits to the original creators.
 
-See the list of contributors [here.](https://github.com/n0tsiege/SIEGE-2021-PACK/.github/CONTRIBUTORS.md)
+See the list of contributors [here.](https://github.com/n0tsiege/SIEGE-2021-PACK/blob/main/.github/CONTRIBUTORS.md)
