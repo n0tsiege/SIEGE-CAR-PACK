@@ -4,13 +4,9 @@
 
 [2021 Charger Hellcat](https://www.gta5-mods.com/vehicles/dodge-charger-hellcat-widebody-2021) - Aaaqil
 
-[2021 Rolls Royce Ghost](https://www.gta5-mods.com/vehicles/2021-rolls-ghost-swb) - Sunnyss
-
 [2021 Audi RS6 Sedan](https://www.gta5-mods.com/vehicles/2021-audi-rs6-sedan-c8-add-on) - ahmeda1999
 
 [2021 Bugatti Chiron](https://www.gta5-mods.com/vehicles/2021-bugatti-chiron-pur-sport-add-on-extras-dirtmap) - Abolfazldanaee
-
-[2021 Audi RS7 ](https://www.gta5-mods.com/vehicles/audi-rs7-abt-2021-add-on-fivem) - Ch4P1NH4
 
 [2021 Huracan](https://www.gta5-mods.com/vehicles/2020-lamborghini-huracan-sto) - ToneBeeDTD
 
