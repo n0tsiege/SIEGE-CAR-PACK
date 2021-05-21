@@ -2,7 +2,7 @@
 
 **Release Version**:
 
-**Vehicle the issue is with**:
+**Vehicle the issue is happening with**:
 
 **Detailed issue description**:
 
@@ -12,8 +12,8 @@
 
 **Release Version**: 1.0
 
-**Vehicle the issue is with**: 2021 GMC Sierra 1500
+**Vehicle the issue is happening with**: 2021 GMC Sierra 1500
 
-**Detailed issue description**: Engine sound is misssing, along with no horn or braking sounds
+**Detailed issue description**: The engine, horn, and general audio of the vehicle is missing. 
 
-**Reproduction Steps (if applicable)**: N/A
+**Reproduction Steps (if applicable)**: - Spawn the 2021 GMC Sierra 1500. - Enter the car and start it. - Observe
