@@ -4,6 +4,6 @@
 
 **Reason for removal**:
 
-**Discord Invite/way to contact you**:
+**Discord Name + Tag/way to contact you**:
 
 **Anything else?**:
