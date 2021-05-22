@@ -22,8 +22,6 @@
 
 [Tesla Roadster](https://www.gta5-mods.com/vehicles/tesla-roadster-2020-add-on-replace-auto-spoiler)
 
-[2020 BMW X7](https://www.gta5-mods.com/vehicles/2020-bmw-x7-add-on-engine)
-
 [2020 Supra](https://www.gta5-mods.com/vehicles/2020-toyota-supra-gr-a90-add-on-replace-fivem)
 
 [2020 Camaro SS](https://www.gta5-mods.com/vehicles/2020-chevrolet-camaro-ss-add-on-replace-tuning-template-rs-ss-zl1-1le-widebody)
