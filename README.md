@@ -10,4 +10,4 @@ See the list of contributors [here.](https://github.com/n0tsiege/SIEGE-2021-PACK
 
 ## Notice
 
- If **you** are the original owner of any of the vehicles included in this pack and you would like it to be removed (only if there was prior notice on GTA5-MODS of the license), please make an [issue](https://github.com/n0tsiege/SIEGE-2021-PACK/issues/new).
+ If **you** are the original owner of any of the vehicles included in this pack and you would like it to be removed (only if there was prior notice on GTA5-MODS of the license), please make an issue foll0owing the format listed in the [takedown notice template](https://github.com/n0tsiege/SIEGE-2021-PACK/blob/main/.github/takedown.md).
