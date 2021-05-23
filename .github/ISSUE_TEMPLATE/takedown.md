@@ -1,3 +1,12 @@
+---
+name: takedown
+about: takedown request to remove your content
+title: "[REMOVE] Takedown request:"
+labels: takedown
+assignees: ''
+
+---
+
 **Car Name**:
 
 **Your Name**:
