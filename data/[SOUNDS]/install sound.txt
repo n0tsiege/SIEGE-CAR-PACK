@@ -1,0 +1,6 @@
+sound
+
+install 1.go to x64\audio\sfx\STREAMED_VEHICLES_GRANULAR.rpf Then drag the file suv_1_eur_v6.awc 
+
+วิธีลง 1. ไปที่  x64\audio\sfx\STREAMED_VEHICLES_GRANULAR.rpf แล้วลากไฟล์ suv_1_eur_v6.awc ลงทับไป
+ 
