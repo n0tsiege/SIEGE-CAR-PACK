@@ -4,7 +4,7 @@ Hey! Welcome to siege's 2021 vehicle pack. We compiled many cars from GTA5-MODS 
 
 I claim **NO** CREDIT for any of these vehicles. I did not make them.
 
-Check [CREDITS](https://github.com/notsiege-development/SIEGE-2021-PACK/blob/main/CREDITS.md) for all original links and credits to the original creators.
+Check [CREDITS](https://github.com/notsiege-development/SIEGE-2021-PACK/blob/main/.github/CREDITS.md) for all original links and credits to the original creators.
 
 See the list of contributors [here.](https://github.com/notsiege-development/SIEGE-2021-PACK/blob/main/.github/CONTRIBUTORS.md)
 
