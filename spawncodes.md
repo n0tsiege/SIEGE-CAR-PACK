@@ -26,7 +26,7 @@ Quartz Regalia: REGALIAD
 
 2021 BMW M4: m4comp
 
-20211 Audi RS6: rs6c8
+2021 Audi RS6: rs6c8
 
 Porche 911: pts21
 
@@ -67,3 +67,25 @@ Chevrolet Silverado: 1500dj
 2018 Volkswagen Amarok: amarok
 
 Nissan Titan: titan17
+
+Nissan GTR50 - gtr50
+
+VW XL Sport Concept - vw16
+
+2017 RAM TRX Concept - trx
+
+2020 Nissan Vision GT Concept - gtr2020
+
+2020 BMW M8 - mansm8
+
+McLaren Senna - senna
+
+Mclaren Elva - elva
+
+2017 Mercedes-Benz AMG GTR - amggtr
+
+2020 Porsche Taycan - taycan
+
+Tesla Prior Design - teslapd
+
+Maybach [Replace] - tailgater

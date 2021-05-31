@@ -20,7 +20,6 @@
 
 [2021 Camaro SS Cabriolet](https://www.gta5-mods.com/vehicles/camaro-ss-2021-cabriolet-add-on-fivem)
 
-
 [BMW X6M F16 Add-On / Replace | Animated](https://www.gta5-mods.com/vehicles/bmw-x6m-f16) 
 
 [Range Rover Evoque Add-on / Replace | Tuning | Template](https://www.gta5-mods.com/vehicles/range-rover-evoque)
@@ -30,7 +29,6 @@
 [2016 Mercedes-AMG GLS 63 (X166)](https://www.gta5-mods.com/vehicles/mercedes-benz-gls-63-amg-2015-add-on-replace-animated)
 
 [Toyota Land Cruiser 200 2016](https://www.gta5-mods.com/vehicles/toyota-land-cruiser-200-2016)
-
 
 [2016 Lexus LX 570](https://www.gta5-mods.com/vehicles/lexus-lx-570-2016)
 
@@ -123,3 +121,25 @@
 [2020 Supra](https://www.gta5-mods.com/vehicles/2020-toyota-supra-gr-a90-add-on-replace-fivem)
 
 [2020 Camaro SS](https://www.gta5-mods.com/vehicles/2020-chevrolet-camaro-ss-add-on-replace-tuning-template-rs-ss-zl1-1le-widebody)
+
+[Nissan GT-R50 Concept](https://www.gta5-mods.com/vehicles/gt-r50-concept)
+
+[Volkswagen XL Sport Concept](https://www.gta5-mods.com/vehicles/2016-volkswagen-xl-sport-concept)
+
+[RAM TRX Concept 2017](https://www.gta5-mods.com/vehicles/2017-ram-1500-rebel-trx-concept-add-on-beta)
+
+[2020 Nissam Vision GT](https://www.gta5-mods.com/vehicles/nissan-2020-concept-vision-gt)
+
+[2020 BMW M8 Competition](https://www.gta5-mods.com/vehicles/bmw-m8-competition-mansaug)
+
+[2019 McLaren Senna](https://www.gta5-mods.com/vehicles/2019-mclaren-senna)
+
+[McLaren Elva](https://www.gta5-mods.com/vehicles/mclaren-elva-add-on-fivem-template)
+
+[2017 Mercedes AMG GTR](https://www.gta5-mods.com/vehicles/mercedes-benz-amg-gt-r-2017)
+
+[2020 Porsche Taycan](https://www.gta5-mods.com/vehicles/2020-porsche-taycan-turbo-s-add-on-replace-template-auto-spoiler)
+
+[Tesla Prior Design](https://www.gta5-mods.com/vehicles/tesla-prior-design-add_on-replace)
+
+[Mercedes Maybach](https://www.gta5-mods.com/vehicles/maybach-s600-2016-replace)
