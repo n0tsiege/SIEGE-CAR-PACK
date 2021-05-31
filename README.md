@@ -2,7 +2,7 @@
 
 Hey! Welcome to siege's 2021 vehicle pack. We compiled many cars from GTA5-MODS and LSPDFR into one resource for anyone to enjoy.
 
-I claim **NO** CREDIT for any of these vehicles. I did not make them.
+We claim **NO** CREDIT for any of these vehicles. I did not make them.
 
 Check [CREDITS](https://github.com/notsiege-development/SIEGE-2021-PACK/blob/main/.github/CREDITS.md) for all original links and credits to the original creators.
 
