@@ -1,6 +1,6 @@
 # NS 2021 VEHICLE PACK
 
-Hey! Welcome to siege's 2021 vehicle pack. We compiled many cars from GTA5-MODS and LSPDFR into one resource for anyone to enjoy.
+Hey! Welcome to the notsiege 2021 vehicle pack. We compiled many cars from GTA5-MODS into one resource for anyone to enjoy.
 
 We claim **NO** CREDIT for any of these vehicles. We did not make them.
 
