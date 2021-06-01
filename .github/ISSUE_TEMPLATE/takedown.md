@@ -1,5 +1,5 @@
 ---
-name: takedown
+name: Takedown
 about: takedown request to remove your content
 title: "[REMOVE] Takedown request:"
 labels: takedown
