@@ -1,5 +1,5 @@
 ---
-name: Vehicle issue
+name: Vehicle Issue
 about: Create a report to help us improve the carpack
 title: "[BUG] Carpack: "
 labels: bug
