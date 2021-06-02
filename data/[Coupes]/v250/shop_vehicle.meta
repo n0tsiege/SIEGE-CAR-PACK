@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ShopVehicleDataArray>
-	<Vehicles>
-		<Item>
-			<lockHash>CU_V250_VEH</lockHash>
-			<modelNameHash>v250</modelNameHash>
-			<cost value="100"/>
-			<textLabel>V250</textLabel>
-			<vehicleMods></vehicleMods>
-		</Item>
-	</Vehicles>
-</ShopVehicleDataArray>
+version https://git-lfs.github.com/spec/v1
+oid sha256:466438175e66fe4a89be84d6fdd49e70879a5822d97460369fcbe4d322ace4f3
+size 290

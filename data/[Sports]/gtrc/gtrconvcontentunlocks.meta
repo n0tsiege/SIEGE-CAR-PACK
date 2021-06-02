@@ -1,7 +1,3 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<SContentUnlocks>
- <listOfUnlocks>
-	<Item>CU_GTRC_VEH</Item>
-	<Item>CU_GTRCW_VEH</Item>
- </listOfUnlocks>
-</SContentUnlocks>
+version https://git-lfs.github.com/spec/v1
+oid sha256:09f18f85fe414c73f89ecd72bcd5c03461951cd19e0243be412bae926bc45812
+size 167

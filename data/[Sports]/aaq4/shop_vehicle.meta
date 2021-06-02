@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ShopVehicleDataArray>
-	<Vehicles>
-		<Item>
-			<lockHash>CU_AAQ4_VEH</lockHash>
-			<modelNameHash>aaq4</modelNameHash>
-			<cost value="100"/>
-			<textLabel>AAQ4</textLabel>
-			<vehicleMods></vehicleMods>
-		</Item>
-	</Vehicles>
-</ShopVehicleDataArray>
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd021837a099e937cd1de8d7932dd96765b8399a8285fcd04209012bfbc45218
+size 290
