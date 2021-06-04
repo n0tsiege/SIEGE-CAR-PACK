@@ -143,3 +143,53 @@
 [Tesla Prior Design](https://www.gta5-mods.com/vehicles/tesla-prior-design-add_on-replace)
 
 [Mercedes Maybach](https://www.gta5-mods.com/vehicles/maybach-s600-2016-replace)
+
+Western Sombrero https://www.gta5-mods.com/vehicles/western-sombrero-add-on-fivem
+
+Yamaha Raptor 700s  https://www.gta5-mods.com/vehicles/yamaha-raptor-700s-add-on
+
+1930 Henderson KJ Streamline  https://www.gta5-mods.com/vehicles/1930-henderson-kj-streamline-add-on
+
+2018 Honda CBR600RR  https://www.gta5-mods.com/vehicles/2018-honda-cbr600rr-add-on
+
+Maibatsu Super Sanchez 850 https://www.gta5-mods.com/vehicles/maibatsu-super-sanchez-850-add-on-fivem-lods
+
+Ninja 250 fi all new  https://www.gta5-mods.com/vehicles/ninja-250-fi-all-new
+
+2020 Kawasaki Z-H2  https://www.gta5-mods.com/vehicles/2020-kawasaki-z-h2-add-on
+
+2019 MV Agusta Brutale 1000 Serie Oro  https://www.gta5-mods.com/vehicles/2019-mv-agusta-brutale-1000-serie-oro-add-on-ch4p1nh4
+
+Ubermacht Kampfer  https://www.gta5-mods.com/vehicles/ubermacht-kampfer-addon
+
+CG Titan 160 S 2020 https://www.gta5-mods.com/vehicles/cg-titan-160-s-2020-add-on-fivem
+
+Suzuki GSX-R1000R https://www.gta5-mods.com/vehicles/suzuki-gsx-r1000r-realistic-handling
+
+Pertamina Mandalika SAG Team 2021 https://www.gta5-mods.com/vehicles/pertamina-mandalika-sag-team-2021-moto-2-indonesia-add-on-livery
+
+LCC Krust https://www.gta5-mods.com/vehicles/lcc-krust-add-on-fivem
+
+Yamaha XJ6 Turbo https://www.gta5-mods.com/vehicles/yamaha-xj6-turbo-add-on-fivem
+
+BMW R1250GS https://www.gta5-mods.com/vehicles/bmw-r1250gs-add-on-fivem
+
+XR 250 Tornado Off-Road  https://www.gta5-mods.com/vehicles/xr-250-tornado-off-road-add-on
+
+Cyberpunk 2077 Sledgehammer Hoverbike https://www.gta5-mods.com/vehicles/cyberpunk-2077-sledgehammer-hoverbike
+
+2020 Repsol Honda Team (RC213V)  https://www.gta5-mods.com/vehicles/2020-repsol-honda-team-rc213v-add-on
+
+Indian Chief Dark Horse 2019  https://www.gta5-mods.com/vehicles/indian-chief-dark-horse-2019-add-on
+
+2007 Suzuki GSX R1000 https://www.gta5-mods.com/vehicles/2007-suzuki-gsx-r1000
+
+2019 KTM RC 390  https://www.gta5-mods.com/vehicles/2019-ktm-rc-390-add-on
+
+Moto Girl  https://www.gta5-mods.com/vehicles/moto-girl
+
+New york pizza scooter https://www.gta5-mods.com/vehicles/new-york-pizza-scooter
+
+Gomez Motorized Pedalbike https://www.gta5-mods.com/vehicles/gomez-motorized-pedalbike-add-on
+
+[Yamaha Aerox 155 ](https://www.gta5-mods.com/vehicles/yamaha-aerox-155-add-on-template)
