@@ -10,11 +10,22 @@ files {
     'data/**/**/*.*',
     'audio/sfx/STREAMED_VEHICLES_GRANULAR/suv_1_eur_v6.awc',
     'vehicle_names.lua',
-    'sv.lua',
+    'server/sv_main.lua',
+    'client/cl_main.lua',
+    'html/ui.html',
+	'html/styles.css',
+	'html/scripts.js',
+	'html/debounce.min.js',
+	'html/BebasNeue.ttf',
+	'html/images/*.png'
 }
 
-client_script 'vehicle_names.lua'
-server_script 'sv.lua'
+client_scripts {
+    'vehicle_names.lua',
+    'config.lua',
+	'client/cl_main.lua',
+}
+server_script 'server/sv_main.lua'
 
 data_file 'HANDLING_FILE' 'data/**/**/handling.meta'
 data_file 'VEHICLE_LAYOUTS_FILE' 'data/**/**/vehiclelayouts.meta'
