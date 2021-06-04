@@ -1,29 +1,20 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'n0tsiege'
-description 'A pack of 2021 vehicles, compiled and released by siege.'
+author 'notsiege development'
+description 'A mega pack of gta 5 cars targeted for fivem servers!'
 version '1.0.0'
-repository 'https://github.com/n0tsiege/SIEGE-2021-PACK'
+repository 'https://github.com/notsiege-development/NS-CAR-PACK'
 
 files {
     'data/**/**/*.*',
     'audio/sfx/STREAMED_VEHICLES_GRANULAR/suv_1_eur_v6.awc',
     'vehicle_names.lua',
     'server/sv_main.lua',
-    'client/cl_main.lua',
-    'html/ui.html',
-	'html/styles.css',
-	'html/scripts.js',
-	'html/debounce.min.js',
-	'html/BebasNeue.ttf',
-	'html/images/*.png'
 }
 
 client_scripts {
     'vehicle_names.lua',
-    'config.lua',
-	'client/cl_main.lua',
 }
 server_script 'server/sv_main.lua'
 
