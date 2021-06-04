@@ -22,7 +22,7 @@
 
 [BMW X6M F16 Add-On / Replace | Animated](https://www.gta5-mods.com/vehicles/bmw-x6m-f16) 
 
-[Range Rover Evoque Add-on / Replace | Tuning | Template](https://www.gta5-mods.com/vehicles/range-rover-evoque)
+[Range Rover Evoque Add-on / Replace | Tunin(https://www.gta5-mods.com/vehicles/range-rover-evoque)
 
 [2016 Porsche Cayenne Turbo S Add-On / Replace](https://www.gta5-mods.com/vehicles/2016-porsche-cayenne-turbo-s-beta)
 
@@ -193,3 +193,226 @@ New york pizza scooter https://www.gta5-mods.com/vehicles/new-york-pizza-scooter
 Gomez Motorized Pedalbike https://www.gta5-mods.com/vehicles/gomez-motorized-pedalbike-add-on
 
 [Yamaha Aerox 155 ](https://www.gta5-mods.com/vehicles/yamaha-aerox-155-add-on-template)
+
+2017 Koenigsegg Agera RS 
+https://www.gta5-mods.com/vehicles/2017-koenigsegg-agera-rs-add-on
+
+2018 Jeep Grand Cherokee Trackhawk Series IV 
+https://www.gta5-mods.com/vehicles/2018-jeep-grand-cherokee-trackhawk-series-iv-add-on
+
+Jeep SRT-8 2015 
+https://www.gta5-mods.com/vehicles/jeep-srt-8-2015-add-on-replace
+
+Jeep Renegade 
+https://www.gta5-mods.com/vehicles/jeep-renegade-add-on
+
+2012 Jeep Wrangler 
+https://www.gta5-mods.com/vehicles/12-jeep-wrangler-hq
+
+Jaguar F-pace 2017 hamann edition 
+https://www.gta5-mods.com/vehicles/jaguar-f-pace-hamann-edition
+
+2017 Italdesign Zerouno 
+https://www.gta5-mods.com/vehicles/2017-italdesign-zerouno-add-on-analog-liverys-extras
+
+Honda NSX-R (NA1) 1992 
+https://www.gta5-mods.com/vehicles/honda-nsx-r-na1-1992
+
+2018 Honda Civic Type-R (FK8) 
+https://www.gta5-mods.com/vehicles/2018-honda-civic-type-r-fk8
+
+2001 Honda Civic Type-R (EP3) 
+https://www.gta5-mods.com/vehicles/2004-honda-civic-type-r-ep3
+
+Honda S2000 AP2 
+https://www.gta5-mods.com/vehicles/honda-s2000-tunable
+
+1997 Honda Civic Sedan Drag Version 
+https://www.gta5-mods.com/vehicles/1999-honda-civic-sedan-drag-version/
+
+2021 Ford Bronco Wildtrak 
+https://www.gta5-mods.com/vehicles/2021-ford-bronco-wildtrak-add-on-fivem
+
+2017 Ford Raptor 
+https://www.gta5-mods.com/vehicles/2017-ford-raptor-hq-rigged-suspension-multi-dirt-animated-engine-tuning
+
+2015 Ford Mustang GT 50 Years Special Edition 
+https://www.gta5-mods.com/vehicles/2015-ford-mustang-gt-50-years-special-edition-add-on-tunning
+
+2005 Ford GT 
+https://www.gta5-mods.com/vehicles/2005-ford-gt-aige
+
+2017 Ford GT
+https://www.gta5-mods.com/vehicles/2017-ford-gt-add-on-replace-yca-aige
+
+1978 Ford F150 XLT Ranger 
+https://www.gta5-mods.com/vehicles/1978-ford-f150-xlt-add-on
+
+2012 Ford F150 SVT Raptor R 
+https://www.gta5-mods.com/vehicles/2012-ford-f150-svt-raptor
+
+Ferrari F12 TRS & F60 America
+https://www.gta5-mods.com/vehicles/ferrari-f12-pack
+
+Ferrari 458 Italia, Spider, Speciale & Aperta
+https://www.gta5-mods.com/vehicles/ferrari-458-spider-2013-add-on-tuning-livery
+
+Ferrari Enzo & Gemballa MIG-U1 
+https://www.gta5-mods.com/vehicles/ferrari-enzo-gemballa-mig-u1-tuning-add-on#description_tab
+
+
+Ferrari Enzo & Gemballa MIG-U1 
+https://www.gta5-mods.com/vehicles/ferrari-enzo-gemballa-mig-u1-tuning-add-on#description_tab
+
+2015 Ferrari LaFerrari 
+https://www.gta5-mods.com/vehicles/2015-ferrari-laferrari-hq-autospoiler
+
+Ferrari FXX-K Hybrid Hypercar 
+https://www.gta5-mods.com/vehicles/ferrari-fxx-k
+
+2015 Ferrari California T 
+https://www.gta5-mods.com/vehicles/ferrari-california-t-2015-replace
+
+Ferrari F430 Scuderia 
+https://www.gta5-mods.com/vehicles/ferrari-430-scuderia-add-on-replace-tuning-template
+
+2018 Ferrari 812 Superfast 
+https://www.gta5-mods.com/vehicles/ferrari-812-superfast
+
+Ferrari 488 Spider 
+https://www.gta5-mods.com/vehicles/ferrari-488-gts-addon-replace-tuner
+
+Dodge Challenger 
+https://www.gta5-mods.com/vehicles/2015-dodge-challenger-add-on-stock-shaker-hellcat
+
+2017 Dodge RAM 1500 Rebel TRX Concept 
+https://www.gta5-mods.com/vehicles/2017-ram-1500-rebel-trx-concept-add-on-beta
+
+Gta 5 - Dodge Neon Srt-4 
+https://newmods.net/gta-5-dodge-neon-srt-4-add-on-tuning-template-unlock-1-0/
+
+2015 Dodge RAM 2500 
+https://www.gta5-mods.com/vehicles/2015-dodge-ram-2500-add-on-tuning
+
+Dodge Challenger - Raid 
+https://www.gta5-mods.com/vehicles/dodge-challanger-raid
+
+2018 Dodge Challenger SRT Demon [LibertyWalk | Add-On]
+https://www.gta5-mods.com/vehicles/2018-dodge-challenger-srt-demon-libertywalk-add-on
+
+Dodge Charger Hellcat Widebody 2021 [Add-On | Animated | Template]
+https://www.gta5-mods.com/vehicles/dodge-charger-hellcat-widebody-2021
+
+1999 Dodge Viper GTS ACR [Add-On | Replace | Tunin
+https://www.gta5-mods.com/vehicles/1999-dodge-viper-gts-acr
+
+2016 Dodge Charger [Add-On / Replace | Tuning SXT / R/T / SRT 392 / Hellcat]
+https://www.gta5-mods.com/vehicles/2016-dodge-charger-sxt-r-t-srt-392-hellcat-add-on-replace-hq
+
+Chevrolet Corvette C5 Z06 [Add-On | Template | LODs]
+https://www.gta5-mods.com/vehicles/chevrolet-corvette-c5-z06-lods-add-on-template-liveries
+
+2020 Chevrolet Camaro SS [Add-On | Replace | Tuning | Template | Unlocked | RS SS ZL1 1LE WIDEBODY]
+https://www.gta5-mods.com/vehicles/2020-chevrolet-camaro-ss-add-on-replace-tuning-template-rs-ss-zl1-1le-widebody
+
+2020 Chevrolet Corvette C8 [Add-On | Extras | Template]
+https://www.gta5-mods.com/vehicles/2020-chevrolet-corvette-c8-add-on-extra-dirt
+
+2014 Chevrolet Corvette C7 Stingray
+https://www.gta5-mods.com/vehicles/2014-chevrolet-corvette-c7-stingray-aige
+
+GTA5-Mods.com
+https://www.gta5-mods.com/vehicles/2021-chevrolet-tahoe-rst-add-on
+
+Chevrolet Camaro RS 17' [Add-On / Replace | LODs]
+https://www.gta5-mods.com/vehicles/chevrolet-camaro-rs-2017-add-on-replace-lods
+
+2015 Chevy Tahoe with Extras 
+https://www.gta5-mods.com/vehicles/2015-chevy-tahoe-with-extras-addon
+
+GTA5-Mods.com
+https://www.gta5-mods.com/vehicles/cadillac-escalade-2021-next-gen-replace
+
+Chevrolet Tahoe 
+https://www.gta5-mods.com/vehicles/chevrolet-tahoe-add-on-replace
+
+2016 Cadillac ATS-V Coupe 
+https://www.gta5-mods.com/vehicles/2016-cadillac-ats-v-coupe-add-on-replace
+
+2020 Bugatti Bolide [Add-On / FiveM]
+https://www.gta5-mods.com/vehicles/2020-bugatti-bolide-addon-sp-fivem
+
+2019 BMW Z4 M40i 
+https://www.gta5-mods.com/vehicles/2019-bmw-z4-m40i-goc-peng00820
+
+BMW M6 F13 Shadow Line 
+https://www.gta5-mods.com/vehicles/bmw-m6-f13
+
+BMW M4 F82 2015 [Add-On / Replace | Animated]
+https://www.gta5-mods.com/vehicles/bmw-m4-f82-2015-add-on-replace-animated
+
+2015 BMW M3 (F80) 
+https://www.gta5-mods.com/vehicles/2015-bmw-m3-f80-add-on-tuning-analog-digital-dials
+
+2015 BMW M3 (F80) 
+https://www.gta5-mods.com/vehicles/2015-bmw-m3-f80-add-on-tuning-analog-digital-dials
+
+BMW M3 E92 2008 
+https://www.gta5-mods.com/vehicles/bmw-m2-e92-2008-add-on-replace
+
+1997 BMW M3 E36 
+https://www.gta5-mods.com/vehicles/1997-bmw-m3-e36
+
+2016 BMW M2 
+https://www.gta5-mods.com/vehicles/2016-bmw-m2-add-on-replace-tuning-template
+
+1995 BMW M5 E34 
+https://www.gta5-mods.com/vehicles/1995-bmw-m5-e34-replace-add-on-tuning
+
+2004 BMW 760Li Individual (E66/PFL) 
+https://www.gta5-mods.com/vehicles/2004-bmw-760li-individual-e66-pfl-add-on-replace-tuning-extras
+
+Bentley Continental GT Convertible 2020
+https://www.gta5-mods.com/vehicles/bentley-continental-gt-convertible-2020-add-on
+
+Bentley Bentayga 
+https://www.gta5-mods.com/vehicles/bentley-bentayga
+
+Audi TT RS 2010 
+https://www.gta5-mods.com/vehicles/audi-ttrs-2010-add-on-tunning
+
+Audi SQ7 2016 
+https://www.gta5-mods.com/vehicles/audi-sq7-2016-add-on
+
+1998 Audi S8 (D2) 
+https://www.gta5-mods.com/vehicles/1998-audi-s8-d2-us-6spd-add-on-replace-tuning-extras
+
+Audi R8 2020 
+https://www.gta5-mods.com/vehicles/audi-r8-2020-addon
+
+2016 Audi RS6 C7 Performance 
+https://www.gta5-mods.com/vehicles/2015-audi-rs6-c7-add-on-abt-tuning
+
+2013 Audi R8 V10 & PPI Razor Tuning
+https://www.gta5-mods.com/vehicles/2013-audi-r8-v10-ppi-razor-tuning-add-on
+
+Audi Q8 50TDI 2020
+https://www.gta5-mods.com/vehicles/audi-q8-50tdi-2020-add-on-fivem
+
+Audi Quattro Sport 1983 
+https://www.gta5-mods.com/vehicles/audi-quattro-sport-83-lods-template-add-on-tuning
+
+2017 Audi A4 Quattro ABT 
+https://www.gta5-mods.com/vehicles/2017-audi-a4-quattro-abt-replace-tuning
+
+1995 Audi Cabriolet (B4) 
+https://www.gta5-mods.com/vehicles/1995-audi-80-cabriolet-hkrs2-b4-street-legal-add-on-replace-tuning-extras
+
+2013 Aston Martin Vanquish
+https://www.gta5-mods.com/vehicles/aston-martin-vanquish-2013
+
+Aston Martin DBX carbon edition 
+https://www.gta5-mods.com/vehicles/aston-martin-dbx-carbon-edition
+
+Acura TL Type-S 
+https://www.gta5-mods.com/vehicles/acura-tl-type-s-jomanire-and-lazlow555
